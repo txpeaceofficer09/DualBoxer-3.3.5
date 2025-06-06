@@ -1,0 +1,7 @@
+## Interface: 30200
+## Title: DualBoxer
+## Version: 1.0
+## Author: Velcrogloves
+## Notes: A dualboxing addon.
+## SavedVariables: DualBoxerDB
+Core.lua
